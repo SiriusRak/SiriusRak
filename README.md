@@ -19,7 +19,7 @@
 ---
 
 <h2>
-  <img src="https://cdn.simpleicons.org/readme/7C3AED" width="22" align="left" />&nbsp;About
+  <img src="https://api.iconify.design/simple-icons/readme.svg?color=%237C3AED" width="22" align="left" />&nbsp;About
 </h2>
 
 ```ts
@@ -36,23 +36,23 @@ const diary = {
 ---
 
 <h2>
-  <img src="https://cdn.simpleicons.org/rocket/7C3AED" width="22" align="left" />&nbsp;What I build
+  <img src="https://api.iconify.design/simple-icons/rocket.svg?color=%237C3AED" width="22" align="left" />&nbsp;What I build
 </h2>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <p align="center"><img src="https://cdn.simpleicons.org/openai/7C3AED" width="40" /></p>
+      <p align="center"><img src="https://api.iconify.design/simple-icons/openai.svg?color=%237C3AED" width="40" /></p>
       <h3 align="center">Applied AI</h3>
       <p align="center"><sub>LLM agents, RAG pipelines, prompt orchestration, MCP tooling, transcription &amp; summarization workflows.</sub></p>
     </td>
     <td width="33%" valign="top">
-      <p align="center"><img src="https://cdn.simpleicons.org/react/7C3AED" width="40" /></p>
+      <p align="center"><img src="https://api.iconify.design/simple-icons/react.svg?color=%237C3AED" width="40" /></p>
       <h3 align="center">Web fullstack</h3>
       <p align="center"><sub>Multi-tenant SaaS &amp; internal tools — React 19, Supabase, Trigger.dev, Vite, Tailwind, RLS-first design.</sub></p>
     </td>
     <td width="33%" valign="top">
-      <p align="center"><img src="https://cdn.simpleicons.org/hackthebox/7C3AED" width="40" /></p>
+      <p align="center"><img src="https://api.iconify.design/simple-icons/hackthebox.svg?color=%237C3AED" width="40" /></p>
       <h3 align="center">Security &amp; CTF</h3>
       <p align="center"><sub>Web exploitation, crypto, reverse, pwn — autonomous solver tooling and skill-driven workflows.</sub></p>
     </td>
@@ -62,15 +62,15 @@ const diary = {
 ---
 
 <h2>
-  <img src="https://cdn.simpleicons.org/codeberg/7C3AED" width="22" align="left" />&nbsp;Featured public work
+  <img src="https://api.iconify.design/simple-icons/codeberg.svg?color=%237C3AED" width="22" align="left" />&nbsp;Featured public work
 </h2>
 
 <p align="center">
   <a href="https://github.com/SiriusRak/ledgerly">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiriusRak&repo=ledgerly&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SiriusRak&repo=ledgerly&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/SiriusRak/minishell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiriusRak&repo=minishell&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SiriusRak&repo=minishell&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ const diary = {
 ---
 
 <h2>
-  <img src="https://cdn.simpleicons.org/devbox/7C3AED" width="22" align="left" />&nbsp;Tech stack
+  <img src="https://api.iconify.design/simple-icons/devbox.svg?color=%237C3AED" width="22" align="left" />&nbsp;Tech stack
 </h2>
 
 <p align="center"><strong>Languages</strong></p>
@@ -115,12 +115,12 @@ const diary = {
 ---
 
 <h2>
-  <img src="https://cdn.simpleicons.org/githubactions/7C3AED" width="22" align="left" />&nbsp;Stats
+  <img src="https://api.iconify.design/simple-icons/githubactions.svg?color=%237C3AED" width="22" align="left" />&nbsp;Stats
 </h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SiriusRak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiriusRak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SiriusRak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SiriusRak&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
@@ -130,7 +130,7 @@ const diary = {
 ---
 
 <h2>
-  <img src="https://cdn.simpleicons.org/githubpages/7C3AED" width="22" align="left" />&nbsp;Contribution graph
+  <img src="https://api.iconify.design/simple-icons/githubpages.svg?color=%237C3AED" width="22" align="left" />&nbsp;Contribution graph
 </h2>
 
 <picture>
@@ -146,7 +146,7 @@ const diary = {
 ---
 
 <h2>
-  <img src="https://cdn.simpleicons.org/maildotru/7C3AED" width="22" align="left" />&nbsp;Reach me
+  <img src="https://api.iconify.design/simple-icons/maildotru.svg?color=%237C3AED" width="22" align="left" />&nbsp;Reach me
 </h2>
 
 <p align="center">
